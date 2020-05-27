@@ -3,7 +3,12 @@ This is a python code which will fetch the details of news from hackernews websi
 
 So, with help of this code you can fetch news(hackernews) daily morning by runing the python file.
 
-All you need to is to run the code in a python shell or any python editor.
+All you need to is to run the code in a python shell or any python editor. Make sure that you have installed BeautifulSoup and Requests libraries.
+
+run the following commands one by one to install those libraries.
+pip install BeautifulSoup4
+
+pip install requests
 
 Thank You. Have a good day.
 
